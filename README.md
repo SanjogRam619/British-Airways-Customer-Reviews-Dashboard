@@ -21,8 +21,19 @@ The objective is to help stakeholders understand customer feedback more effectiv
 - Analyze customer satisfaction by traveller type and seat type.
 - Identify the top-rated aircraft based on customer reviews.
 - Provide an interactive dashboard for business analysis.
+---
+
+## 📷 Dashboard Preview
+
+<p align="center">
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c580a60f-c291-43c6-af35-0181ff990e32" />
+
+</p>
+
+*Interactive Tableau Dashboard featuring KPIs, maps, trend analysis, aircraft performance, traveller insights, seat type analysis, recommendation rate, and interactive filters.*
 
 ---
+
 
 ## 📊 Dashboard Features
 
