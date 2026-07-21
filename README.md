@@ -26,7 +26,7 @@ The objective is to help stakeholders understand customer feedback more effectiv
 ## 📷 Dashboard Preview
 
 <p align="center">
-  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c580a60f-c291-43c6-af35-0181ff990e32" />
+ <img width="949" height="532" alt="image" src="https://github.com/user-attachments/assets/ab276283-8900-48b2-b371-12549d2fb4b2" />
 
 </p>
 
